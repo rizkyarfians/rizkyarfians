@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rizkyarfians
-- 👀 I’m interested in Web Development especially Front-End. Also i'm in interested in Mobile Apps especially Flutter
+- 👋 Hi, I’m Rizky Arfiansyah
+- 👀 I’m interested in Web Development especially Front-End. I'm also interested in Mobile Apps especially Flutter
 - 🌱 I’m currently learning Flutter and React Js
-
-I'm New on here please be kind
 
 
 <!---
