@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rizky Arfiansyah
-- 👀 I’m interested in Web Development especially Front-End. I'm also interested in Mobile Apps especially Flutter
-- 🌱 I’m currently learning Flutter and React Js
+- 👀 I’m interested in Full Stack Development also Project in IoT Based with Arduino or ESP.
+- I've made some project on IoT based for my assignment.
 
 
 <!---
